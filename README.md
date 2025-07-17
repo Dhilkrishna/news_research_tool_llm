@@ -1,1 +1,2 @@
-# news_research_tool_llm
+🔹 "Dependencies for Web-Based Research Document Question Answering App using LangChain"
+
